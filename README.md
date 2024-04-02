@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Sabarish2317
-- 👀 I’m interested in Flutter app developement,innovative projects and helpful opensource projects 
-- 🌱 I’m currently learning Python & dart
+- 💻 My current project :  Student management system
+- 👀 I’m interested in Flutter app developement & web-developement
+- 🤸🏽 I like to work on Innovative projects and helpful ideas. 
+- 🌱 I’m currently learning Web-developement.
 - 📫 How to reach me Sabarish_7@protonmail.com
 
 <!---
