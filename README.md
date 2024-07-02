@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sabarish2317
-- 💻 My current project :  Student management system
+- 💻 My current project :  Attendance management system
 - 👀 I’m interested in Flutter app developement & web-developement
 - 🤸🏽 I like to work on Innovative projects and helpful ideas. 
 - 🌱 I’m currently learning Web-developement.
