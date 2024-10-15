@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Sabarish2317
-- 💻 My current project :  (Stream-Sync) Stream media-torrents in video chat
-- 👀 I’m interested in Flutter app developement & web-developement
-- 🤸🏽 I like to work on Innovative projects and helpful ideas. 
-- 🌱 I’m currently learning Web-developement.
-- 📫 How to reach me Sabarish_7@protonmail.com
-
-
+- 👋 Hello! I'm @Sabarish2317
+- 💻 Currently working on: Stream-Sync – a platform for streaming media torrents in real-time video chats.
+- 👀 Passionate about: Flutter app development and web development.
+- 🤸🏽 My drive: I thrive on innovative projects that bring helpful ideas to life.
+- 📫 Get in touch: Feel free to reach me at Sabarish_7@protonmail.com.
