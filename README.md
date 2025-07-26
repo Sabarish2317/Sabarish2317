@@ -47,14 +47,6 @@ const sabarish = {
 | [Hoplite Planner](https://github.com/Sabarish2317/Hoplite-workoutPlanner) | Daily workout & fitness scheduler | `Flutter`, `Dart` |
 | [Portfolio Site](https://github.com/Sabarish2317/SabarishVS-portfolio-website) | My personal website ⚡ | `TypeScript`, `Next.js`, `Tailwind` |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabarish2317&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarish2317&layout=compact&theme=radical" height="165" />
-</p>
 
 ---
 
