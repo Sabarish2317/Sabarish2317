@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>aka <strong>Bat/man 🧗‍♂️</strong></em> • Full Stack Web & App Dev • UI/UX Designer <br />
-  <strong>21 &BULL; Undergrad &BULL; Cursios</strong>
+  <strong>21 • Undergrad • Cursios</strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔥 About Me
+## About Me
 
 ```ts
 const sabarish = {
