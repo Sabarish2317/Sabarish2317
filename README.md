@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Sabarish V S 👋</h1>
+<h1 align="center">Hi there, I'm Sabarish V S </h1>
 
 <p align="center">
   <em>aka <strong>Bat/man 🧗‍♂️</strong></em> • Full Stack Web & App Dev • UI/UX Designer <br />
-  <strong>🚀 Passionately coding from Coimbatore</strong>
+  <strong>21 &BULL; Undergrad &BULL; Cursios</strong>
 </p>
 
 <p align="center">
