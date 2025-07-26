@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sabarish V S </h1>
 
 <p align="center">
-  <em>aka <strong>Bat/man 🧗‍♂️</strong></em> • Full Stack Web & App Dev • UI/UX Designer <br />
+  Full Stack Web & App Dev • UI/UX Designer <br />
   <strong>21 • Undergrad • Cursios</strong>
 </p>
 
