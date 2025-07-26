@@ -52,8 +52,8 @@ const sabarish = {
 
 ## 🤝 Let’s Connect
 
-- 🧠 Twitter: [@Sabarish_2317](https://twitter.com/Sabarish_2317)
-- 💼 LinkedIn: Coming soon™
+- 🧠 Twitter : [@Sabarish_2317](https://twitter.com/Sabarish_2317)
+- 💼 LinkedIn: [@Sabarish--vs](https://www.linkedin.com/in/sabarish--vs/)
 - 🌐 Portfolio: [sabarish-vs-portfolio.vercel.app](https://sabarish-vs-portfolio.vercel.app)
 
 > _"Code like a bat outta Gotham."_ 🧏‍♂️
